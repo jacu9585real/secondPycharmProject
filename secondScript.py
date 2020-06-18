@@ -34,7 +34,7 @@ print(myDrink.ounces)
 myDrink.recycle()
 print(myDrink.ounces)
 
-print("added one last line just ot test bud")
+print("added one last line just to test bud")
 
 
 
